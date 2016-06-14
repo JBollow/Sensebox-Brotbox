@@ -85,7 +85,7 @@
 <br>
 Das Breadboard liegt lose auf dem Boden der Dose. Der Boden ist zusätzlich mit einer weitern Plastikplatte beschwert. Das Ethernetkabel wird durch ein, mit Tape abgedichtetes Loch nach außen geführt.
 <br>
-Um für eine ausreichende und Konstante Luftzufuhr zu sorgen, wurde ein Lüfter an der Oberseite der Dose angebracht, hierzu musste ein Ausschnitt in die Dose gemacht werden, dazu, wie auch zu allen weitern Arbeiten wurde ein Dremel verwendet. Damit trotz des Ausschnittes nicht unmittelbar Wasser von oben in die Dose dringen kann, bekam der Lüfter ein Dach. Um nicht zuviel Dreck mit ein zu saugen wurden an den extra dafür gefrästen Lüftungsschlitzen ein Luftfilter angebracht. 
+Um für eine ausreichende und konstante Luftzufuhr zu sorgen, wurde ein Lüfter an der Oberseite der Dose angebracht, hierzu musste ein Ausschnitt in die Dose gemacht werden, dazu, wie auch zu allen weitern Arbeiten wurde ein Dremel verwendet. Damit trotz des Ausschnittes nicht unmittelbar Wasser von oben in die Dose dringen kann, bekam der Lüfter ein Dach. Um nicht zuviel Dreck mit ein zu saugen wurden an den extra dafür gefrästen Lüftungsschlitzen ein Luftfilter angebracht. 
 <br>
 <br>
 <img src="https://bfphag-bn1306.files.1drv.com/y3meNyhh4UfixvL6Bq9vJChLf2HL1n6s0igSn5BWGERJspBVc6HLIGu7hYf9uac6pcguHuG675o7U_l3WfzD65DGcfRIRSj3qfrLwFI-X6Ww0ma3eZPpcSAP5e2uwVK-Ta0dSWfUTQxhXBSwWLfHK-uEg?width=1024&height=576&cropmode=none" width="1024" height="576" />
@@ -333,12 +333,12 @@ void waitForServerResponse()
 <p>Die Sensebox wurde mit dem Namen Brotbox registriert, ihre Gruppenkennzeichnung ist DigiCarto16-2. Die Sensoren wurden manuell eingerichtet </p>
 <br>
 <ul>
-<li>VEML6070	UV-Intensität in µW/cm²</li>
+<li>VEML6070	UV-Intensität in μW/cm²</li>
 <li>HDC1000	Luftfeuchtigkeit in %</li>
 <li>HDC1000	Temperatur	in °C</li>
 <li>Multi Gas Sensor NH3 in ppm</li>
 <li>Multi Gas Sensor CO in ppm</li>
-<li>Multi Gas Sensor NO2 in µg/m³</li>
+<li>Multi Gas Sensor NO2 in μg/m³</li>
 <li>Multi Gas Sensor H2 in ppm</li>
 <li>Multi Gas Sensor C2H5OH in ppm</li>
 </ul>
@@ -349,6 +349,10 @@ Die Station findet man unter diesem Link:
 <br>
 <p>Die Station wurde auf einem Balkon zur Ostseite in der Von Esmarchstraße 10 aufgestellt. Dort steht sie relativ geschützt vom Wetter, aber auch von direkter Sonneneinstrahlung.</p>
 <br>
+<br>
+<img src="https://og4jpq-bn1306.files.1drv.com/y3miJEWxfo17WcQ6Z5Z3LkyPS8NJIUzmuHHfm-MiGd51-HYQaPumdo1v0G_VbnGvADlO5si0aXKzFCoIlH0hvKWdfikNZ7h8IuQbblzL___SNGbEeI-Q-6___FTadyhRsGCdzGJn_9SQvNMbi685Uk6iw?width=1024&height=576&cropmode=none" width="1024" height="576" />
+<br>
+<br>
 <p></p>
 <br>
 <br>
@@ -356,5 +360,3 @@ Die Station findet man unter diesem Link:
 <br>
 <a href="mailto:Jan_PatrickBollow@hotmail.com">Jan-Patrick Bollow</a>
 Münster, Juni 2016
-
-
