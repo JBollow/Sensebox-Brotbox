@@ -358,5 +358,5 @@ Die Station findet man unter diesem Link:
 <br>
 <h2>Kontakt</h2>
 <br>
-<a href="mailto:Jan_PatrickBollow@hotmail.com">Jan-Patrick Bollow</a>
+<a href="mailto:Jan_PatrickBollow@hotmail.com">Jan-Patrick Bollow; Martin Schlüter</a>
 Münster, Juni 2016
