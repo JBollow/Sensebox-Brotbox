@@ -343,7 +343,7 @@ void waitForServerResponse()
 <li>Multi Gas Sensor C2H5OH in ppm</li>
 </ul>
 <br>
-Die Station findet man unter diesem Link: 
+Die Station findet man unter diesem Link: https://opensensemap.org/explore/573ca7e2fa4e96380f6e2996
 <br>
 <h2>Stationsaufbau</h2>
 <br>
